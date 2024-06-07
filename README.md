@@ -1,4 +1,4 @@
-# Análize longitudinal da mortalidade no SUS
+# Análise longitudinal da mortalidade no SUS
 
 
 Vídeo apresentação:
